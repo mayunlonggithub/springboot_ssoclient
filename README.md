@@ -1,6 +1,6 @@
 # springboot_ssoclient
 利用spring security oauth2实现的单点登陆的客户端
-##单点登陆配置流程如下：  
+## 单点登陆配置流程如下：  
 
 ### 1.http://localhost:8090/auth/oauth/authorize #请求认证的地址  
 
